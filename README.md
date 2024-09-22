@@ -73,7 +73,7 @@ When the user enters all the details and clicks on the "Predict" button, the app
 1. Clone the repository:
 
     ```bash
-    git clone <repository-link>
+    git clone 
     ```
 
 2. Install the required libraries:
