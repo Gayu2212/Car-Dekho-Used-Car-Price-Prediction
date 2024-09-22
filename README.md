@@ -1,4 +1,4 @@
-# Used Car Price Prediction
+# Car-Dekho Used Car Price Prediction
 
 This project predicts the price of used cars based on various features such as the place, brand, year, fuel type, transmission, mileage, and ownership. The model is trained using a dataset with car data from five cities: Chennai, Bangalore, Kolkata, Hyderabad, and Delhi. The web interface is built using **Streamlit**.
 
